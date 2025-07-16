@@ -1,0 +1,46 @@
+{
+  "photo": [
+    {
+      "id": 1,
+      "name": "브랜드A",
+      "info": "편안하고 착용감이 좋은 신발",
+      "price": "35,0000원",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbdshti%2FbtsPjyT0VXV%2FAAAAAAAAAAAAAAAAAAAAANJQ0C3JR_afVRAnEZHG45sZ2IDSXaH_89D1U_WrsZf0%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3D1fuWBZj5yP0lB3coJ5xPzxy7ias%253D"
+    },
+    {
+      "id": 2,
+      "name": "브랜드A",
+      "info": "힙한 컬러가 매력적인 신발",
+      "price": "25,0000원",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbdshti%2FbtsPjyT0VXV%2FAAAAAAAAAAAAAAAAAAAAANJQ0C3JR_afVRAnEZHG45sZ2IDSXaH_89D1U_WrsZf0%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3D1fuWBZj5yP0lB3coJ5xPzxy7ias%253D"
+    },
+    {
+      "id": 3,
+      "name": "브랜드B",
+      "info": "편안하고 착용감이 좋은 신발",
+      "price": "35,0000원",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbdshti%2FbtsPjyT0VXV%2FAAAAAAAAAAAAAAAAAAAAANJQ0C3JR_afVRAnEZHG45sZ2IDSXaH_89D1U_WrsZf0%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3D1fuWBZj5yP0lB3coJ5xPzxy7ias%253D"
+    },
+    {
+      "id": 4,
+      "name": "브랜드B",
+      "info": "힙한 컬러가 매력적인 신발",
+      "price": "35,0000원",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbdshti%2FbtsPjyT0VXV%2FAAAAAAAAAAAAAAAAAAAAANJQ0C3JR_afVRAnEZHG45sZ2IDSXaH_89D1U_WrsZf0%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3D1fuWBZj5yP0lB3coJ5xPzxy7ias%253D"
+    },
+    {
+      "id": 5,
+      "name": "브랜드C",
+      "info": "편안하고 착용감이 좋은 신발",
+      "price": "35,0000원",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbdshti%2FbtsPjyT0VXV%2FAAAAAAAAAAAAAAAAAAAAANJQ0C3JR_afVRAnEZHG45sZ2IDSXaH_89D1U_WrsZf0%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3D1fuWBZj5yP0lB3coJ5xPzxy7ias%253D"
+    },
+    {
+      "id": 6,
+      "name": "브랜드C",
+      "info": "힙한 컬러가 매력적인 신발",
+      "price": "35,0000원",
+      "img": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbdshti%2FbtsPjyT0VXV%2FAAAAAAAAAAAAAAAAAAAAANJQ0C3JR_afVRAnEZHG45sZ2IDSXaH_89D1U_WrsZf0%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3D1fuWBZj5yP0lB3coJ5xPzxy7ias%253D"
+    }
+  ]
+}
